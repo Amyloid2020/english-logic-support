@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "baseURL": "https://amyloid2020.github.io/english-logic-support/",
+  "privacyPolicyURL": "https://amyloid2020.github.io/english-logic-support/privacy/",
+  "supportURL": "https://amyloid2020.github.io/english-logic-support/support/",
+  "supportEmail": "amipharmacy2020@gmail.com",
+  "files": {
+    "index.html": "728f8df9cc6024c55f10b5e053e430a20ec370032a6fd841852e7c1dc5ea9fcd",
+    "styles.css": "5f08800a9c0ab53acf68626b418e46dfc3a5397127a87e66a83153d8038d5b08",
+    "app-icon.png": "e2b8a1f25a27fee04fc363edac294170e26c0ef3c44cfccaeaab7aee3c44b2bd",
+    "privacy/index.html": "5e7d301306748eef2cb7e0b300be5759220aa6160b1814290590a4cf88942470",
+    "support/index.html": "5f2c44a8c3758131af5bfd7752c097444e29ccf57fa60290c659f792a8ce0102"
+  }
+}
